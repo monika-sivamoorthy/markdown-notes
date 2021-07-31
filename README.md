@@ -25,10 +25,14 @@ __This text__ is strong
 <!-- Strike throuigh -->
 ~~This text~~ is strike through
 
-<!-- Horizontal Rule -->
+<br>
+
+<!-- Horizontal Rule --> 
+
 ---
 ___
 
+<br>
 <!-- Block quote -->
 > This is a quote
 
@@ -84,6 +88,11 @@ def add(num1, num2):
 <!-- Task Lists-->
 - [x] Task 1
 - [x] Task 2
-* [ ] Task 3
-* [ ] Task 4
+- [ ] Task 3
+* [ ] Task A
+* [ ] Task B
+* [x] Task C
 
+<br>
+Notes:<br>
+Know more at [The Markdown Guide](https://www.markdownguide.org)!
