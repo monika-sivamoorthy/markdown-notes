@@ -97,7 +97,7 @@ ___
 <br>
 
 <!-- Code blocks-->
-### Code blocks:
+### Code block:
 ```
 npm install
 npm start
@@ -105,7 +105,7 @@ npm start
 
 <br>
 
-### javascript:
+### Javascript code block:
 ```javascript
 function add(num1, num2){
     return num1 + num2
@@ -114,7 +114,7 @@ function add(num1, num2){
 
 <br>
 
-### python:
+### Python code block:
 ```python
 def add(num1, num2):
     return num1+num2
